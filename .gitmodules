@@ -2,3 +2,6 @@
 	path = esp82xx
 	url = https://github.com/cnlohr/esp82xx.git
 
+[submodule "esp-open-sdk"]
+	path = esp-open-sdk
+	url = https://github.com/pfalcon/esp-open-sdk
