@@ -1,4 +1,4 @@
-from ubuntu
+from ubuntu:18.04
 run apt-get update && DEBIAN_FRONTEND="noninteractive" apt-get -y install \
   build-essential git vim \
   autoconf gperf bison flex texinfo wget help2man gawk libtool-bin \
